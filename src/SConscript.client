@@ -77,6 +77,7 @@ clientSourceBasic = [
     'mongo/client/gridfs.cpp',
     'mongo/client/init.cpp',
     'mongo/client/sasl_client_authenticate.cpp',
+    'mongo/client/write_concern.cpp',
     'mongo/db/jsobj.cpp',
     'mongo/db/json.cpp',
     'mongo/db/dbmessage.cpp',
